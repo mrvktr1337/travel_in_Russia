@@ -1,5 +1,10 @@
+
+/* 1280 */
 .intro {
-   max-width: 690px; /* макстимальная ширина блока */
-  
-   padding: 92px 442px 0 140px; /* внутренние отступы */
+   display: flex;
+   flex-direction: column;
+   max-width: 984px;
+   align-self: flex-start;
+   padding-top: 92px;
+   padding-left: 48px;
 }

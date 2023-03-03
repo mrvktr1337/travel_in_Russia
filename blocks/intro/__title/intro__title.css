@@ -1,12 +1,8 @@
+/* 1280 */
+
 .intro__title {
-    margin: 0;
-    width: 100%;
-    max-width: 690px;
     font-size: 54px;
-    line-height: 1.07;
-    font-style: normal;
     font-weight: 900;
-    margin-bottom: 40px;
+    line-height: 58px;
+    margin: 0;
 }
-
-
