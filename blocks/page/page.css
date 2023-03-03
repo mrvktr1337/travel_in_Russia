@@ -1,0 +1,16 @@
+.page {
+    max-width: 1280px;  /* максимальный размер страницы, остальное уши */
+    min-width: 320px;  /* минимальный размер страницы */
+    margin: 0 auto;   /* обнуляем отступы */
+
+    font-family: 'Inter', Helvetica, Arial, sans-serif; /* Шрифты */
+    -webkit-font-smoothing: antialiased;  /* Сглаживаем текст на всей странице */
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-text-size-adjust: 100%; /* сглаживание текста для разных браузеров */
+    -ms-text-size-adjust: 100%;
+    -moz-text-size-adjust: 100%;
+    text-rendering: optimizeLegibility;
+    background-color: #2A2C2F; /* цвет бэкграунд */
+    color: #fff; /* цвет текста */
+  
+  }
