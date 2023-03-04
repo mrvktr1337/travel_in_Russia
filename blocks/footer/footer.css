@@ -1,0 +1,16 @@
+/* 1280 */
+.footer {
+    /* size */
+    width: 100%;
+
+    /* position */
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 0 48px 0 48px;
+    margin: 92px 0 24px 0;
+    box-sizing: border-box;
+
+
+  /*   border: dashed red;  */
+}

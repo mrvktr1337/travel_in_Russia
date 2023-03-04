@@ -1,9 +1,11 @@
 .photo-grid {
-    display: grid;
-    flex-direction: column;
-    max-width: 1184px;
-    grid-template-columns: repeat(4, 1fr);
-    grid-template-rows: repeat(3, 1fr);
-    gap: 16px;
-    margin: 92px 0 92px;
-  }
+  display: grid;
+  flex-direction: column;
+  max-width: 1184px;
+  grid-template-columns: repeat(4, 1fr);
+  grid-template-rows: repeat(3, 1fr);
+  gap: 16px;
+  margin: 92px 0 92px;
+
+ /*   border: dashed red;  */
+}

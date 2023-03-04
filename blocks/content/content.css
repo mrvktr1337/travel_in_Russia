@@ -1,6 +1,13 @@
+/* MAIN */
 .content {
+
+    /*  position  */
     display: flex;
     flex-direction: column;
     align-items: center;
+
+    /*  size  */
     width: 100%;
+
+/*   border: dashed red;   */
 }

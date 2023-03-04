@@ -1,10 +1,16 @@
-
 /* 1280 */
 .intro {
+
+   /* position */
    display: flex;
    flex-direction: column;
-   max-width: 984px;
    align-self: flex-start;
+
+   /* size */
+   max-width: 984px;
    padding-top: 92px;
    padding-left: 48px;
+
+   
+   /*   border: dashed red;   */
 }
