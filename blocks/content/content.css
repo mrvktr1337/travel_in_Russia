@@ -11,3 +11,24 @@
 
 /*   border: dashed red;   */
 }
+
+
+
+@media (max-width: 1024px) {
+    .content {
+    }
+}
+
+
+@media (max-width: 768px) {
+    .content {
+        
+    }
+}
+
+
+@media (max-width: 320px) {
+    .content {
+
+    }
+}

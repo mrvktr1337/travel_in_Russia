@@ -11,4 +11,21 @@
     font-style: normal;
     font-weight: normal;
     line-height: 1.17;
+
+/*   border: dashed red;  */
 }
+
+
+
+@media screen and (max-width: 768px) {
+    .header__link-list {
+        font-size: 18px;
+    }
+}
+
+/* 320 */
+@media screen and (max-width: 320px) {
+    .header__logo {
+        font-size: 18px;
+    }
+}    

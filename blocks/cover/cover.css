@@ -12,3 +12,27 @@
 
  /*   border: dashed red;  */
 }
+
+
+
+
+
+@media (max-width: 1024px) {
+    .cover {
+    }
+}
+
+
+@media (max-width: 768px) {
+    .cover {
+        
+    }
+}
+
+
+@media (max-width: 320px) {
+    .cover {
+
+    }
+}
+

@@ -5,3 +5,29 @@
 
  /*   border: dashed red;  */
 }
+
+
+@media screen and (max-width: 1024px) {
+    .photo-grid__image {
+        width: 300px;
+        height: 225px;
+        object-fit: contain;
+    }
+  }
+
+  @media screen and (max-width: 768px) {
+    .photo-grid__image {
+        width: 352px;
+        height: 264px;
+        object-fit: contain;
+    }
+  }
+
+  @media screen and (max-width: 320px) {
+    .photo-grid__image {
+        width: 228px;
+        height: 216px;
+        object-fit: cover;
+    }
+  }
+

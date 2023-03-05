@@ -8,7 +8,23 @@
     padding-top: 8px;
     text-transform: uppercase;
     align-self: flex-start;
-
  /*   border: dashed red;  */
+}
 
+
+@media screen and (max-width: 1024px) {
+    .lead__caption {
+    }
+}
+  
+@media screen and (max-width: 768px) {
+    .lead__caption {
+        padding-left: 24px;
+    }
+}
+  
+@media screen and (max-width: 320px) {
+    .lead__caption {
+        padding-left: 16px;
+    }
 }

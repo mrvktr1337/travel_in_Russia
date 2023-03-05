@@ -14,3 +14,46 @@
    
    /*   border: dashed red;   */
 }
+
+
+
+/* 1024 */
+@media screen and (max-width: 1024px) {
+   .intro {
+      padding-top: 92px;
+      padding-left: 48px;
+      padding-right: 0;
+      padding-bottom: 0;
+       
+   }
+}
+
+/* 768 */
+@media screen and (max-width: 768px) {
+   .intro {
+      padding-top: 88px;
+      padding-left: 24px;
+      padding-right: 0;
+      padding-bottom: 0;
+   }
+}
+
+/* 640 */
+@media screen and (max-width: 640px) {
+   .intro {
+      padding-top: 76px;
+      padding-left: 16px;
+      padding-right: 0;
+      padding-bottom: 0;
+   }
+}
+
+/* 320 */
+@media screen and (max-width: 320px) {
+   .intro {
+      padding-top: 64px;
+      padding-left: 16px;
+      padding-right: 0;
+      padding-bottom: 0;
+   }
+}
