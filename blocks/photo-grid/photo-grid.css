@@ -3,7 +3,7 @@
   max-width: 1184px;
   margin: 0 auto;
   margin-bottom: 92px;
-  grid-template-columns: repeat(4, minmax(auto, 284px));
+  grid-template-columns: repeat(4, minmax(auto, 284px)); /* 4 колонки ширина 284px */
   gap: 16px;
 }
 
@@ -12,7 +12,8 @@
   .photo-grid {
     max-width: 928px;
     padding: 0;
-    grid-template-columns: repeat(3, minmax(auto, 300px));
+    grid-template-columns: repeat(3, minmax(auto, 300px)); /* 3 колонки ширина 300x */
+    gap: 14px;
   }
 }
 
@@ -32,5 +33,4 @@
     grid-template-columns: minmax(auto, 288px);
     gap: 12px;
   }
-  
 }
