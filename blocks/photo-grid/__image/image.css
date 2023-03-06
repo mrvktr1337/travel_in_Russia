@@ -1,9 +1,8 @@
 .photo-grid__image {
-    width: 284px;
-    height: 213px;
+    width: 100%;
     object-fit: contain;
-
- /*   border: dashed red;  */
+}
+ /*   border: dashed red; 
 }
 
 
@@ -30,4 +29,4 @@
         object-fit: cover;
     }
   }
-
+ */
