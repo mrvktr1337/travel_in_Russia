@@ -5,3 +5,11 @@
     max-width: 690px;
 /*     border: dashed red;    */
 }
+
+@media screen and (max-width: 320px) {
+    .intro__list {
+        margin: 0;
+        padding-top: 34px;
+    }
+   
+}
